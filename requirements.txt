@@ -1,4 +1,4 @@
-python==3.7.7
+python==3.9.1
 numpy==1.18.1
 cv2==4.2.0
 face_recognition==1.2.3
