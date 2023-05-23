@@ -1,0 +1,20 @@
+name: face
+version: '1.0'
+summary: OfflineIMAP
+description: |
+  OfflineIMAP is software that downloads your email mailbox(es) as local
+  Maildirs. OfflineIMAP will synchronize both sides via IMAP.
+confinement: devmode
+base: core18
+
+parts:
+  face:
+    plugin: python
+    python-version: python2
+    source: https://github.com/snapcraft-docs/offlineimap.git
+    stage-packages:
+      - python-six
+
+apps:
+  face:
+    command: bin/offlineimap
