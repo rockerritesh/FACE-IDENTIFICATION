@@ -54,4 +54,4 @@ If you have any suggestions or encounter any issues, please open an issue or sub
 
 ## Author
 
-[Rocker Ritesh](sumityadav.com.np)
+[Rocker Ritesh](http://sumityadav.com.np)
