@@ -44,6 +44,20 @@ This script utilizes the following libraries:
 - NumPy: https://numpy.org/
 - face_recognition: https://github.com/ageitgey/face_recognition
 
+## To-Do:
+- [ ] Implement a GUI for a user-friendly interface.
+- [ ] - Add functionality to handle multiple webcams.
+- [ ]  Integrate with a database for storing attendance records.
+- [ ] Implement automatic email notifications for marked attendance.
+- [ ]  Enhance face recognition accuracy using deep learning models.
+- [ ] Add support for real-time face registration.
+- [ ]  Set a confidence threshold for face recognition matches.
+- [ ]  Support multiple attendance sessions within a single run.
+- [ ] Integrate with a notification service for real-time attendance notifications.
+- [ ] Implement a feature for automatic face registration.
+- [ ] Extend the system to analyze facial expressions and emotions.
+- [ ] Develop a web-based interface for the attendance system.
+
 ## License
 
 [MIT License](LICENSE)
