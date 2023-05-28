@@ -55,7 +55,7 @@ This script utilizes the following libraries:
 - [ ]  Support multiple attendance sessions within a single run.
 - [ ] Integrate with a notification service for real-time attendance notifications.
 - [ ] Implement a feature for automatic face registration.
-- [ ] Extend the system to analyze facial expressions and emotions.
+- [x] Extend the system to analyze facial expressions and emotions.
 - [ ] Develop a web-based interface for the attendance system.
 
 ## License
