@@ -2,13 +2,15 @@
 # Face Recognition Attendance System
 
 This is a Python script that utilizes face recognition to mark attendance by detecting and recognizing faces in a webcam feed.
+![](https://github.com/rockerritesh/FACE-IDENTIFICATION/blob/master/Face%20Recognition%20Attendance%20System%20.png)
 
 ## Features
 
-- Detects and recognizes faces in real-time using a webcam.
-- Compares the detected faces with pre-encoded face images for identification.
-- Marks attendance by recording the names of recognized individuals and the timestamp of their detection.
-- Stores attendance records in a text file.
+   - Detects and recognizes faces in real-time using a webcam.
+   - Performs face-emotion detection to analyze the facial expressions of recognized individuals.
+   - Compares the detected faces with pre-encoded face images for identification.
+   - Marks attendance by recording the names of recognized individuals, the timestamp of their detection, and their corresponding facial expressions.
+   - Stores attendance records, including the recognized individuals' names, timestamps, and facial expressions, in a text file.
 
 ## Requirements
 
