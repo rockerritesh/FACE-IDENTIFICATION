@@ -1,0 +1,14 @@
+{
+  "HI_SUM": {
+    "last_marked": "2025-06-29T06:40:33.639487",
+    "total_detections": 1,
+    "last_emotion": "Neutral",
+    "last_confidence": 0.6
+  },
+  "SUMIT": {
+    "last_marked": "2025-06-29T06:40:34.414483",
+    "total_detections": 1,
+    "last_emotion": "Neutral",
+    "last_confidence": 0.6
+  }
+}

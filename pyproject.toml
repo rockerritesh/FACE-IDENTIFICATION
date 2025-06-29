@@ -1,0 +1,16 @@
+[project]
+name = "face-identification"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11.1"
+dependencies = [
+    "face-recognition==1.2.3",
+    "face-recognition-models>=0.3.0",
+    "facenet-pytorch>=2.6.0",
+    "fer>=22.5.1",
+    "ipykernel>=6.29.5",
+    "matplotlib>=3.10.3",
+    "moviepy>=2.2.1",
+    "opencv-python>=4.11.0.86",
+]
